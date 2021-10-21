@@ -54,6 +54,7 @@ p, pre {
   color: black;
   width: 50%;
 
+
 }
 
 canvas{
@@ -82,6 +83,23 @@ a:hover{
   font-style: italic;
   font-family: Courier New;
   font-weight: 500;
+
+}
+
+#githubTitle
+{
+
+  text-align:center;
+  margin:0 2.5% 0 0;
+  font-size: 200%;
+  padding-top: 5%;
+  padding-left: 3%;
+  color:white;
+
+
+  font-family: Courier New;
+  font-weight: 500;
+
 
 }
 
@@ -126,7 +144,7 @@ a:hover{
 .placement1{
 
 
-  
+
   text-align: center;
   /*text-align: center;
   justify-content: center;
