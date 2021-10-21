@@ -1,0 +1,202 @@
+body {
+  background-color: black;
+  font-family: Garamond;
+
+}
+h1 {
+  color: white;
+  /*padding-top: 2%;*/
+  padding-left: 1%;
+  /*padding-bottom:1%;*/
+  font-size: 400%;
+  font-family:monospace;
+}
+p, pre {
+  color: white;
+  position: static;
+  padding-left: 3%;
+  /*padding-left: 50%;
+  padding-bottom: 50%;*/
+}
+
+#subtitle{
+  text-align: center;
+  adding-left: 20%;
+  font-size: 400%;
+  padding-bottom: 5%;
+}
+
+#subtitle1{
+  text-align: center;
+  adding-left: 20%;
+  font-size: 400%;
+}
+
+#subtitle2{
+  text-align: center;
+  font-size: 250%;
+}
+
+#description{
+  color: white;
+  text-align: center;
+  font-size: 150%;
+}
+
+#RESUME{
+    position: absolute;
+    padding-left: 30%;
+}
+
+#menu{
+  background-color: black;
+  background: black;
+  color: black;
+  width: 50%;
+
+}
+
+canvas{
+  position:absolute;
+      left:0;
+      top:0;
+      size: 10000%;
+      z-index:-1;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  color: dimGrey;
+}
+
+#menuTEXT{
+
+  margin:0 2.5% 0 0;
+  font-size: 200%;
+  padding-top: 2%;
+  /*padding-left: 3%;*/
+  font-style: italic;
+  font-family: Courier New;
+  font-weight: 500;
+
+}
+
+#aboutTEXT
+{
+  align-content: center;
+  text-align:center;
+  margin:0 2.5% 0 0;
+  font-size: 125%;
+  padding-top: 5%;
+  /*padding-left: 3%;*/
+  font-style: oblique;
+  font-family: Courier New;
+  font-weight: 500;
+
+
+}
+
+#select{
+  padding-left: 1%;
+  padding-right: 1%;
+  font-size: 400%;
+  font-style: bold;
+  font-family: Courier New;
+  text-align: center;
+}
+
+.placement{
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  text-align: center;
+  /*text-align: center;
+  justify-content: center;
+  align-items: center;
+  line-height: 50%;*/
+
+}
+
+.placement1{
+
+
+  
+  text-align: center;
+  /*text-align: center;
+  justify-content: center;
+  align-items: center;
+  line-height: 50%;*/
+
+}
+
+ul{
+
+  margin:2.5% 0 0 0;
+}
+
+body {
+  /*background-image: url('smileyface2 (1).jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 45%;
+  background-position: center;*/
+}
+
+#proscript
+{
+  position:absolute;
+}
+
+.column{
+  float: left;
+  width: 50%;
+}
+
+.unity{
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top:5%;
+}
+
+div.gallery {
+  padding-left: 2.5%;
+  padding right: 2.%;
+
+
+  margin: 3%;
+
+  float: left;
+  width: 15%;
+}
+
+div.gallery:hover {
+  /*border: 1px solid #777;*/
+}
+
+div.gallery img {
+  width: 125%;
+  height: auto;
+}
+
+/*div.desc {
+
+  text-align: center;
+}*/
+
+#power{
+  padding-top: 5%;
+  padding-left: 90%;
+}
+
+#images
+{
+  padding-top: 5%;
+  display: flex;
+  justify-content: center;
+}
