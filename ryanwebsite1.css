@@ -89,14 +89,13 @@ a:hover{
 #githubTitle
 {
 
+  align-content: center;
   text-align:center;
   margin:0 2.5% 0 0;
-  font-size: 200%;
+  font-size: 500%;
   padding-top: 5%;
-  padding-left: 3%;
-  color:white;
-
-
+  /*padding-left: 3%;*/
+  font-style: oblique;
   font-family: Courier New;
   font-weight: 500;
 
@@ -109,6 +108,22 @@ a:hover{
   text-align:center;
   margin:0 2.5% 0 0;
   font-size: 125%;
+  padding-top: 5%;
+  /*padding-left: 3%;*/
+  font-style: oblique;
+  font-family: Courier New;
+  font-weight: 500;
+
+
+
+}
+
+#githubTEXT
+{
+  align-content: center;
+  text-align:center;
+  margin:0 2.5% 0 0;
+  font-size: 200%;
   padding-top: 5%;
   /*padding-left: 3%;*/
   font-style: oblique;
